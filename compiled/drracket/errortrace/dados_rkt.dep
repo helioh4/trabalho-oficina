@@ -1,0 +1,1 @@
+("6.3" ("e4385a65ba01e7e5f95ec7bf7129f167eea7e208" . "eb3f3ef37cb6e72856a07f1e893c4ee3c73b31fd") #"/home/ufpr/trabalho/trabalho-oficina/constantes.rkt" (collects #"2htdp" #"image.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
